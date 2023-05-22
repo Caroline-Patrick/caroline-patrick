@@ -1,4 +1,4 @@
-### Hi there 👋, Caroline Patrick
+### Caroline Patrick
 #### Dietitian turned Software Developer
 
 Skills: REACT / JS / HTML / CSS
