@@ -1,3 +1,9 @@
+<style>
+.white-icon {
+    filter: invert(1);
+}
+</style>
+
 ### Caroline Patrick
 #### Dietitian turned Software Developer
 
